@@ -1,1 +1,1 @@
-This repo contain python class projects.
+This repository contain python projects.
